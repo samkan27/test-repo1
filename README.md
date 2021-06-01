@@ -4,3 +4,4 @@ test revert pattern
 test merge pattern
 ~~~~~~~~~~~~~~~~~~
 @@@@@@@@@@@@@@@@
+$$$$$$
