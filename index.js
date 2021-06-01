@@ -1,4 +1,5 @@
 import view from './view';
-return <div></br></div>;
+import actions from './actionHandlers';
+const view = () => <div>hellow</div>
 createCustomCompoenent();
 
